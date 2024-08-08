@@ -114,7 +114,7 @@ vsg_raw_reference , vsg_raw_stimulation, lags, distances,
 
 if save_figure:
 
-    output_filename = os.path.join(figure_directory, "04_raw_virtual_shots_gathers.pdf")
+    output_filename = os.path.join(figure_directory, "04_raw_virtual_shots_gathers.png")
     fig.savefig(output_filename)
 
 
@@ -134,7 +134,7 @@ fig, _ = fk_filtering_plot_article(
 
 if save_figure:
 
-    output_filename = os.path.join(figure_directory, "S_filtered_virtual_shot_gathers.pdf")
+    output_filename = os.path.join(figure_directory, "S_filtered_virtual_shot_gathers.png")
     fig.savefig(output_filename)
 
 
