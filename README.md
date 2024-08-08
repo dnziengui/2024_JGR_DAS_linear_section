@@ -1,3 +1,5 @@
-# 2024_JGR_DAS_linear_section
+# Python codes (Nziengui Bâ et al., 2024, JGR)
 
-ok
+## Description 
+
+This repository contains codes for (Nziengui Bâ et al., 2024, JGR)
