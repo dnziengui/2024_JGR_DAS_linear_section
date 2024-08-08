@@ -1,4 +1,4 @@
-# Python codes (Nziengui Bâ et al., 2024, JGR)
+# Python codes for (Nziengui Bâ et al., 2024, JGR): "Groundwater monitoring with an underwater DAS cable"
 
 ## Description 
 
