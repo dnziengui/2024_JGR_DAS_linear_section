@@ -13,7 +13,7 @@ This repository contains:
         Phase_velocity_variations (Figure S7)
 	 
 
-    The data folder:
+    The data folder: (DOI: https://doi.org/10.5281/zenodo.13270501)
         Virtual-shot-gathers_source-CH1125_FrequencyBand-1-20Hz.h5 :: contains the virtual shot gathers to reproduce Figure XXX, XXX and XXX
         groundwater_level_P95.csv ::  piezometric level ( in m.a.s.l) measured at piezometer 95 
         basin_water_level_B5-2.csv :: Basin water level (im meters)
